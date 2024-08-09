@@ -10,4 +10,4 @@ pipeline {
     }
 }
 
-# push data to github from company  
+# push data to github using ssh
