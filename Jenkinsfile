@@ -10,4 +10,4 @@ pipeline {
     }
 }
 
-# testing push permission 
+# push data to github from company  
